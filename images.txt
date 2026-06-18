@@ -1,5 +1,2 @@
-nginx
-#支持私库
 codewisdom/ts-travel-plan-service:1.0.0
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+codewisdom/ts-wait-order-service:1.0.1
