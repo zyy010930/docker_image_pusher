@@ -1,1 +1,6 @@
-busybox:1.32
+radondb/percona:5.7.34
+radondb/xenon:1.1.5-helm
+prom/mysqld-exporter:v0.12.1
+nacos/nacos-server:2.0.1
+codewisdom/mysqlclient:0.1
+codewisdom/rabbitmq:3
