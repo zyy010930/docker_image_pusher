@@ -127,3 +127,4 @@ codewisdom/ts-voucher-service:0.0.4
 codewisdom/ts-voucher-service:1.0.0
 codewisdom/ts-voucher-service-with-jaeger:v1
 codewisdom/ts-wait-order-service:1.0.1
+busybox:1.32
